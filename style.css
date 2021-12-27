@@ -1,0 +1,169 @@
+	@font-face {
+			font-family: 'Fixedsys Excelsior 3.01';
+			font-style: normal;
+			font-weight: normal;
+			src: local('Fixedsys Excelsior 3.01'), url('FSEX300.woff') format('woff');
+			}
+	a { 
+			text-decoration: none;
+			} 
+	.link {
+			cursor: url('click.cur'), auto;
+			font-family:'Fixedsys Excelsior 3.01';font-weight:normal;font-size:42px";
+			}
+	.shadow {
+			padding: 10px;
+			color: #d0ffff;
+			font-size: 32px;
+			text-shadow: 2px 2px 0px #0D0D0C;
+			}
+	body {
+			background-repeat:no-repeat;
+			background-position:top;
+			background-attachment:fixed;
+			cursor: url('cursor.cur'), auto;
+			}
+	.blur {
+			background: rgba(79, 86, 178, 0.9);	
+			}
+	.blur_head {
+			background: rgba(26, 31, 100, 0.9);	
+			}
+	.font {
+			font-family:'Fixedsys Excelsior 3.01';font-weight:normal;font-size:32px" text-decoration: none;
+			}
+	button1 {
+			outline: none;
+			display: block;
+			width: 200px;
+			height: 60px;
+			background: url(images/index.png) 0 0 no-repeat;
+			}
+	button1:hover {
+			background-position: 0 -60px;
+			}
+	button1:active {
+			background-position: 0 -120px;
+			}
+	button2 {
+			outline: none;
+			display: block;
+			width: 295px;
+			height: 60px;
+			background: url(images/mesto.png) 0 0 no-repeat;
+			}
+	button2:hover {
+			background-position: 0 -60px;
+			}
+	button2:active {
+			background-position: 0 -120px;
+			}
+	button3 {
+			outline: none;
+			display: block;
+			width: 272px;
+			height: 60px;
+			background: url(images/dost.png) 0 0 no-repeat;
+			}
+	button3:hover {
+			background-position: 0 -60px;
+			}
+	button3:active {
+			background-position: 0 -120px;
+			}
+	button4 {
+			outline: none;
+			display: block;
+			width: 200px;
+			height: 60px;
+			background: url(images/osebe.png) 0 0 no-repeat;
+			}
+	button4:hover {
+			background-position: 0 -60px;
+			}
+	button4:active {
+			background-position: 0 -120px;
+			}
+	vk {
+			outline: none;
+			display: block;
+			width: 32px;
+			height: 32px;
+			background: url(images/vk.png) 0 0 no-repeat;
+			}
+	vk:hover {
+			background: url(images/vk2.png) 0 0 no-repeat;
+			}
+	vk:active {
+			background: url(images/vk3.png) 0 0 no-repeat;
+			}
+	inst {
+			outline: none;
+			display: block;
+			width: 32px;
+			height: 32px;
+			background: url(images/instagram.png) 0 0 no-repeat;
+			}
+	inst:hover {
+			background: url(images/instagram2.png) 0 0 no-repeat;
+			}
+	inst:active {
+			background: url(images/instagram3.png) 0 0 no-repeat;
+			}
+	steam {
+			outline: none;
+			display: block;
+			width: 32px;
+			height: 32px;
+			background: url(images/steam.png) 0 0 no-repeat;
+			}
+	steam:hover {
+			background: url(images/steam2.png) 0 0 no-repeat;
+			}
+	steam:active {
+			background: url(images/steam3.png) 0 0 no-repeat;
+			}
+	paika {
+			outline: none;
+			display: block;
+			width: 305px;
+			height: 400px;
+			background: url(images/paika.png) 0 0 no-repeat;
+			}
+	paika:hover {
+			background-position: 0 -800px;
+			}
+	paika:active {
+			background-position: 0 -400px;
+			}
+	cpu {
+			outline: none;
+			display: block;
+			width: 320px;
+			height: 320px;
+			background: url(images/cpu.png) 0 0 no-repeat;
+			}
+	cpu:hover {
+			background-position: 0 -640px;
+			}
+	cpu:active {
+			background-position: 0 -320px;
+			}
+	back {
+			outline: none;
+			display: block;
+			width: 199px;
+			height: 60px;
+			background: url(images/back.png) 0 0 no-repeat;
+			}
+	back:hover {
+			background-position: 0 -60px;
+			}
+	back:active {
+			background-position: 0 -125px;
+			}
+table, td {
+    border: 0px;
+    border-radius: 5px;
+    -moz-border-radius: 0px;
+}
